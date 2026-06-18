@@ -1,6 +1,6 @@
 # Odin Recipes
 
-My first HTML project from The Odin Project. Just practicing basic HTML — no CSS yet.
+My first HTML project from The Odin Project. Just practicing basic HTML.
 
 ## Recipes
 
