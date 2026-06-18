@@ -5,8 +5,8 @@ My first HTML project from The Odin Project. Just practicing basic HTML — no C
 ## Recipes
 
 - [Lasagna](recipes/lasagna.html)
-- [Chicken Adobo](recipes/chicken-adobo.html)
-- [Chocolate Chip Cookies](recipes/chocolate-chip-cookies.html)
+- [burger](recipes/burger.html)
+- [burrito](recipes/burrito.html)
 
 ## What I Used
 
